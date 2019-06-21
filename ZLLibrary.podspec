@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license      = 'MIT'
     s.authors      = { 'PhilWang' => 'wangpeng@zhelihenku.com' }
     s.platform     = :ios, '9.0'
-    s.source       = { :git => "https://github.com/zhelihenku/ZLLibrary.git", :tag => "0.0.1"}
+    s.source       = { :git => "https://github.com/zhelihenku/ZLLibrary.git", :tag => s.version }
     s.source_files = 'ZLLibrary/**/*.{h,m}'
     s.requires_arc = true
 end
