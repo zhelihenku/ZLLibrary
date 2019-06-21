@@ -1,5 +1,14 @@
 # ZLLibrary  ( Latest version : 0.0.1 )
 
+## 介绍
+
+**iOS 基础库，对常用方法封装，功能强大，轻松集成，易于拓展，方便使用。**
+
+
+## 特性
+
+- 时间格式化 - date <-> string、date <-> timestamp。
+
 ## 安装
 
 ### CocoaPods
